@@ -70,7 +70,7 @@ _Formulario para registrar nuevas habilidades_
 1. **Clonar el repositorio**
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/MichaelVairoDev/User_Profile_Manager.git
 cd User_Profile_Manager
 ```
 
